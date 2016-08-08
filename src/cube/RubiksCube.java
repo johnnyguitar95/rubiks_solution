@@ -78,6 +78,13 @@ public class RubiksCube {
         return str;
     }
 
+    /**
+     * Get's a string of a specifed face
+     * 
+     * @param face
+     *            to get
+     * @return string of said face
+     */
     private String faceString(int[][] face) {
         String str = "";
         for (int x = 0; x < top.length; x++) {
