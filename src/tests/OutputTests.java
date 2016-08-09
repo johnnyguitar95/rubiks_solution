@@ -1,6 +1,6 @@
 package tests;
 
-public class CubeTests {
+public class OutputTests {
 
     int[][] cube1;
     int[][] cube2;
